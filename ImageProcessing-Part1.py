@@ -2,7 +2,7 @@
 """
 Created on Mon Aug 29 13:11:04 2022
 
-@author: Lenovo
+@author: Suraj Gusain
 """
 #image in color
 import cv2
