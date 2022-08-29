@@ -2,7 +2,7 @@
 """
 Created on Mon Aug 29 17:03:39 2022
 
-@author: Suraj
+@author: Suraj Gusain
 """
 
 import cv2
